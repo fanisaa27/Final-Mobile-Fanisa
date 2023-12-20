@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Final Nurul Fanisa</string>
+    <string name="judul">judul</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+
+        <item>Barbie</item>
+        <item>Boboiboy</item>
+        <item>Cars</item>
+        <item>CuriosGeorge</item>
+        <item>Dasi Gantung</item>
+        <item>Dora</item>
+        <item>Larva</item>
+        <item>Masha And The Bear</item>
+        <item>Naruto</item>
+        <item>Ratatouille</item>
+        <item>Saiki</item>
+        <item>Shaun The Sheep</item>
+        <item>SuperWings</item>
+        <item>Upin Dan Ipin</item>
+        <item>Winnie The Pooh</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+    <item>Barbie adalah sebuah karakter boneka yang diperkenalkan oleh perusahaan mainan Amerika Serikat, Mattel, Inc</item>
+    <item>Boboiboy adalah kartun aksi-petualangan dengan unsur-unsur fantasi dan sains fiksi. Ceritanya berkisar pada seorang anak laki-laki bernama Boboiboy yang memiliki kekuatan unsur-unsur alam seperti petir, tanah, dan angin. </item>
+    <item>Cars berfokus pada karakter utama, Lightning McQueen, mobil balap muda dan sombong yang tersesat di kota kecil bernama Radiator Springs saat dalam perjalanan menuju kejuaraan balap. </item>
+    <item>"Curious George" adalah karakter monyet yang terkenal melalui serangkaian buku anak-anak karya penulis H.A. Rey dan Margret Rey. Karakter ini kemudian diadaptasi ke berbagai media, termasuk serial televisi animasi. </item>
+    <item>Animasi Dasi Gantung merupakan animasi terpopuler saat ini karena kamu bisa melihat aksi lucuk dan kocak dari setiap karakter yang di munculkan.</item>
+    <item>"Dora the Explorer" mengikuti petualangan seorang gadis kecil bernama Dora, yang selalu bersama dengan monyet kawannya yang bernama Boots. Bersama dengan pemirsa, Dora dan Boots melakukan perjalanan untuk menyelesaikan misi atau mengatasi rintangan sambil berinteraksi dengan penonton.</item>
+    <item>"Larva" adalah sebuah serial animasi Korea Selatan yang sangat populer yang pertama kali muncul pada tahun 2011. Kartun ini memperlihatkan kisah dua larva, Red dan Yellow, yang tinggal di bawah saluran pembuangan kota. </item>
+    <item>"Masha and the Bear" mengisahkan tentang hubungan antara seorang anak perempuan kecil bernama Masha dan seekor beruang besar yang hidup di hutan. Masha adalah seorang anak yang energik, penasaran, dan sering kali terlibat dalam berbagai kejenakaan, sementara beruang adalah karakter yang sabar dan mencoba menjaga ketenangan di sekitarnya.</item>
+    <item>"Naruto" adalah sebuah seri manga dan anime yang ditulis dan diilustrasikan oleh Masashi Kishimoto. Ceritanya mengikuti perjalanan Naruto Uzumaki, seorang ninja remaja dengan impian besar untuk menjadi Hokage, pemimpin desa ninja terkuat. </item>
+    <item>"Ratatouille" mengikuti kisah seekor tikus bernama Remy yang bermimpi menjadi seorang chef. Meskipun dihadapkan pada tantangan karena ketidaksetujuan manusia terhadap tikus di dapur, Remy bekerja sama dengan seorang koki manusia muda bernama Linguini untuk mencapai impiannya.</item>
+    <item>"The Disastrous Life of Saiki K." adalah sebuah manga yang ditulis dan diilustrasikan oleh Shuichi Aso. Manga ini pertama kali serialisasi pada tahun 2012 dan selesai pada tahun 2018. Manga ini telah menjadi populer karena campuran uniknya antara komedi dan unsur supernatural.</item>
+    <item>seekor domba yang tinggal di peternakan. Shaun memiliki kecerdasan yang luar biasa untuk seekor domba dan sering terlibat dalam petualangan yang lucu bersama kawan-kawannya di peternakan.</item>
+    <item>"Super Wings" mengikuti petualangan sekelompok pesawat robot yang dapat bertransformasi menjadi robot yang memiliki kemampuan untuk membantu anak-anak di seluruh dunia. Setiap pesawat robot memiliki kemampuan khusus dan kepribadian yang berbeda-beda.</item>
+    <item>"Upin dan Ipin" mengisahkan kehidupan sehari-hari dua saudara kembar, Upin dan Ipin, beserta keluarga dan teman-teman mereka di sebuah kampung di Malaysia. Cerita sering kali menekankan nilai-nilai pendidikan, moral, dan budaya.</item>
+    <item>Seekor beruang yang sangat suka madu dan memiliki sikap yang tenang dan santai.</item>
+
+    </string-array>
+    <array name="music_id">
+        <item>@raw/barbie</item>
+        <item>@raw/boboiboy</item>
+        <item>@raw/cars</item>
+        <item>@raw/curiousgeorge</item>
+        <item>@raw/dasigantung</item>
+        <item>@raw/dora</item>
+        <item>@raw/larva</item>
+        <item>@raw/mashaandthebear</item>
+        <item>@raw/naruto</item>
+        <item>@raw/ratatoille</item>
+        <item>@raw/saiki</item>
+        <item>@raw/shaunthesheep</item>
+        <item>@raw/superwing</item>
+        <item>@raw/upinipin</item>
+        <item>@raw/winniethepooh</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/barbie</item>
+        <item>@drawable/boboiboy</item>
+        <item>@drawable/cars</item>
+        <item>@drawable/curiousgeorge</item>
+        <item>@drawable/dasigantung</item>
+        <item>@drawable/dora</item>
+        <item>@drawable/larva</item>
+        <item>@drawable/mashaandthebear</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/ratatouille</item>
+        <item>@drawable/saiki</item>
+        <item>@drawable/shaunthesheep</item>
+        <item>@drawable/superwing</item>
+        <item>@drawable/upinipin</item>
+        <item>@drawable/winniethepooh</item>
+
+    </integer-array>
+</resources>
